@@ -1,0 +1,30 @@
+Benefícios do uso de uma ferramenta de gestão de configuração para o time de desenvolvimento:
+Organização e Rastreabilidade: A criação de um repositório centralizado para artefatos permite maior controle e organização. Cada integrante do time sabe onde encontrar os artefatos necessários, além de ter um histórico de alterações detalhado.
+
+Colaboração Eficiente: O uso dessa ferramenta favorece a colaboração, pois facilita o acesso simultâneo dos integrantes aos artefatos, reduzindo erros de comunicação e sobreposição de tarefas.
+
+Controle de Versão: Garantir que todos estejam utilizando a versão mais atual dos artefatos evita retrabalhos e inconsistências, melhorando a eficiência do time.
+
+Conformidade e Governança: Ferramentas de gestão ajudam na auditoria e conformidade, pois permitem rastrear alterações e identificar responsáveis pelas modificações realizadas nos artefatos.
+
+Integração com Metodologias: Essas ferramentas se alinham a boas práticas de gestão (ITIL, COBIT) e ajudam a implementar estratégias focadas em governança e sustentabilidade (ESG).
+
+Reflexão sobre o aprendizado:
+Concluir essa prática oferece uma visão prática sobre a importância do gerenciamento de artefatos em projetos de software. Alguns impactos relevantes incluem:
+
+Estratégia:
+Adotar uma ferramenta de gestão de configuração fortalece a estratégia de entrega de valor ao cliente, garantindo a qualidade dos artefatos e uma abordagem proativa para gerenciar mudanças.
+
+Governança:
+A rastreabilidade e o controle oferecidos reforçam boas práticas de governança, permitindo que os gestores monitorem a conformidade e melhorem a tomada de decisões.
+
+ITIL e COBIT:
+O uso da ferramenta alinha-se com os processos de ITIL, promovendo a gestão eficaz de mudanças e a garantia de serviços estáveis. No COBIT, a ferramenta auxilia no cumprimento dos princípios de entrega de valor e otimização de recursos.
+
+ESG (Environmental, Social, and Governance):
+Um repositório bem gerido promove responsabilidade social e transparência. Também contribui para a eficiência operacional, que pode ter impactos indiretos na sustentabilidade ambiental ao reduzir desperdícios.
+
+Percepção Profissional:
+A prática de gerenciamento de artefatos é uma habilidade crucial para qualquer profissional de TI. Aprender a criar e gerenciar um repositório não só aprimora a organização, mas também fortalece a capacidade de trabalhar em conformidade com padrões de governança e sustentabilidade.
+
+Além disso, ao implementar ferramentas de gestão de configuração, você desenvolve uma visão mais integrada sobre a importância da tecnologia em todos os aspectos organizacionais. Isso agrega valor à sua carreira e à empresa na qual você atua.
